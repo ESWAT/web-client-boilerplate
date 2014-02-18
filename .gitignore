@@ -1,8 +1,11 @@
+# Node
 npm-debug.log
 node_modules/
 
+# SASS
 .sass-cache
 
+# Sublime Text
 *.sublime-project
 *.sublime-workspace
 
@@ -17,3 +20,7 @@ profile
 
 # Compass
 config.rb
+
+# Ruby
+.ruby-gemset
+.ruby-version
